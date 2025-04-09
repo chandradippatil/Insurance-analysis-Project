@@ -1,6 +1,6 @@
 # 📊 Insurance Analytics Dashboard
 
-This project includes an interactive dashboard created using **Power BI**, focusing on key insurance KPIs such as Cross Sell, New Business, and Renewals.
+A comprehensive dashboard built in **Power BI** to analyze key insurance metrics like Cross Sell, New Business, and Renewals.
 
 ## 🔹 Dashboard Preview
 
