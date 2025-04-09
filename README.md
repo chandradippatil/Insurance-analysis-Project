@@ -4,4 +4,4 @@ A comprehensive dashboard built in **Power BI** to analyze key insurance metrics
 
 ## 🔹 Dashboard Preview
 
-![Insurance Dashboard](images/insurance_dashboard.png)
+![Insurance Dashboard]([images/insurance_dashboard.png](https://github.com/chandradippatil/chandradippatil/blob/main/HR_Dashboard.png))
